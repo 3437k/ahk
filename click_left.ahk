@@ -1,0 +1,2 @@
+# Left Click
+CAPSLOCK::LBUTTON
